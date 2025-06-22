@@ -1,0 +1,19 @@
+[
+    {
+        "judul": "hxh",
+        "genre": "action",
+        "total_episode": 54,
+        "episode_terakhir": 1,
+        "status": "Sedang Ditonton",
+        "rating": 9.0,
+        "characters": [
+            {
+                "name": "gon",
+                "description": "mc",
+                "anime_origin": "hxd",
+                "personality": "ceria",
+                "rating": 9.0
+            }
+        ]
+    }
+]
